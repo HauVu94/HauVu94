@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Hau!
+
 I am currently a student at Høyskolen Kristiania, studying information technology with a focus on programming
 
 - ⚡ Fun fact: I'm an optician
