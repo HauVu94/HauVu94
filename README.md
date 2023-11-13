@@ -4,7 +4,7 @@ My name is Hau!
 
 I am currently a student at Høyskolen Kristiania, studying information technology with a focus on programming
 
-- ⚡ Fun fact: I'm an optician
+- ⚡ Fun fact: I'm an optician, studied at the college in southeast Norway and finished in 2016
 
 <!--
 **HauVu94/HauVu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
