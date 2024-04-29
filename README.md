@@ -2,7 +2,8 @@
 
 My name is Hau!
 
-I am currently a student at Høyskolen Kristiania, studying information technology with a focus on programming
+I am currently a student at Høyskolen Kristiania, studying information technology with a focus on programming.
+I also have a summer intership at ECO STOR AS in oslo Norway as a Junior Software Developer. 
 
 - ⚡ Fun fact: I'm an optician, studied at the college in southeast Norway and finished in 2016
 
